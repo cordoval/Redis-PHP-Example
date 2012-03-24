@@ -1,0 +1,48 @@
+body{
+    background: #eef;
+}
+h1{text-align: center;}
+h1,h2,h3{
+    color: navy;
+}
+
+.post{
+    border: 1px dotted #999;
+    margin-bottom: 15px;
+}
+
+.post p.title{
+    font-size: 16px;
+    font-weight: bold;
+}
+.tag-cloud, .archive-block{
+    border: 1px navy dashed;
+    padding: 10px;
+    margin: 10px;
+}
+.tag-cloud h2, .archive-block h2{
+    font-size: 16px;
+    line-height: 16px;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+
+.main{
+    float: left;
+    width: 64%;
+}
+.sidebar{
+    width: 34%;
+    float: right;
+}
+
+.tag_tamanho_0{font-size: 9px;}
+.tag_tamanho_1{font-size: 13px;}
+.tag_tamanho_2{font-size: 16px;}
+.tag_tamanho_3{font-size: 19px;}
+.tag_tamanho_4{font-size: 21px;}
+.tag_tamanho_5{font-size: 23px;}
+.tag_tamanho_6{font-size: 25px;}
+
+
